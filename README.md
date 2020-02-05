@@ -1,2 +1,2 @@
 # portfolio
-a few things I've made
+A few things I've made:
