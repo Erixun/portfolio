@@ -21,6 +21,10 @@ https://erixun.shinyapps.io/Empire-DKP/
 https://erixun.github.io/calculator/calc-alt/calculator%20copy.html
 
 
+**A simple game of tetris (JavaScript)**  
+https://erixun.github.io/tetris/tetris
+
+
 **A simple game of snake (JavaScript)**  
 https://erixun.github.io/snake/snake
 
