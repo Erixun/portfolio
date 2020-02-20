@@ -5,10 +5,6 @@
 https://erixun.shinyapps.io/MealSum2/
 
 
-**USDA food & nutrition-search (R Shiny)**  
-https://erixun.shinyapps.io/USDA/
-
-
 **App to calculate salary per worksession for baggage-handlers at SAS (R Shiny)**  
 https://erixun.shinyapps.io/SASbkp/
 
