@@ -25,6 +25,10 @@ https://erixun.github.io/tetris/tetris
 https://erixun.github.io/snake/snake
 
 
+**A duplicate of a youtube video page (HTML/CSS)**
+https://erixun.github.io/youtube-video-page/youtube-video.html
+
+
 **Bubble-graph comparing Swedish municipalities (R)**  
 https://rpubs.com/Erixun/SverigesKommuner
 
