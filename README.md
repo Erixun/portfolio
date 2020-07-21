@@ -1,5 +1,16 @@
 # portfolio
 
+**A replica of a NYT Article page**
+https://erixun.github.io/nyt-article/nyt-article
+
+
+**A clone of the old apple homepage**
+https://erixun.github.io/building-backgrounds/apple-site.html
+
+
+**A replica of a youtube video page (HTML/CSS)**  
+https://erixun.github.io/youtube-video-page/youtube-video.html
+
 
 **Meal app (R Shiny)**  
 https://erixun.shinyapps.io/MealSum2/
@@ -23,10 +34,6 @@ https://erixun.github.io/tetris/tetris
 
 **A simple game of snake (JavaScript)**  
 https://erixun.github.io/snake/snake
-
-
-**A duplicate of a youtube video page (HTML/CSS)**  
-https://erixun.github.io/youtube-video-page/youtube-video.html
 
 
 **Bubble-graph comparing Swedish municipalities (R)**  
