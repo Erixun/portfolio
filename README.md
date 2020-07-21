@@ -1,10 +1,10 @@
 # portfolio
 
-**A replica of a NYT Article page**
+**A replica of a NYT Article page**  
 https://erixun.github.io/nyt-article/nyt-article
 
 
-**A clone of the old apple homepage**
+**A clone of the old apple homepage**  
 https://erixun.github.io/building-backgrounds/apple-site.html
 
 
