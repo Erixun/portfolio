@@ -1,6 +1,18 @@
 # portfolio
 
-**A simple website for my grand-dad the artist**  
+**A chat app (Nuxt.js, WIP)**  
+https://waz-app.azurewebsites.net
+
+
+**My own website (Vue.js, WIP)**  
+https://erixun.github.io/my-website/
+
+
+**A KanBan/Todo-list app (Vue.js, WIP)**  
+https://kando-dev.azurewebsites.net/
+
+
+**A simple website for my grand-dad the artist (HTML/CSS)**  
 https://erixun.github.io/boalstrom/
 
 
