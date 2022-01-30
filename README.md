@@ -1,7 +1,7 @@
 # portfolio
 
-**A Nuclear animation (HTML/CSS/JS)**
-https://erixun.github.io/anim-atom/
+**A Nuclear animation (HTML/CSS/JS)**  
+https://erixun.github.io/anim-atom/  
 
 
 **A chat app (Nuxt.js, WIP)**  
