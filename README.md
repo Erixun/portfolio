@@ -1,5 +1,9 @@
 # portfolio
 
+**A Nuclear animation (HTML/CSS/JS)**
+https://erixun.github.io/anim-atom/
+
+
 **A chat app (Nuxt.js, WIP)**  
 https://waz-app.azurewebsites.net
 
