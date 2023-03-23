@@ -1,4 +1,13 @@
 # portfolio
+
+**Emailr - A simple survey app (React.js, Node.js/Express, WIP)***   
+https://savory-plantation-production.up.railway.app/   
+
+
+**My next website (Next.js, WIP)**
+https://my-next-website-swart.vercel.app/   
+
+
 **Foodr - Professional nutrition-tracker (React.js, Node.js/Express, WIP)**  
 https://foodr.pro/  
 
