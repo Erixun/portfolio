@@ -1,19 +1,15 @@
 # portfolio
 
-**Emailr - A simple survey app (React.js, Node.js/Express, WIP)***   
-https://savory-plantation-production.up.railway.app/   
-
-
-**My next website (Next.js, WIP)**   
-https://my-next-website-swart.vercel.app/   
-
-
 **Foodr - Professional nutrition-tracker (React.js, Node.js/Express, WIP)**  
 https://foodr.pro/  
 
 
 **Goud - Rated foods for common good**  
 https://goud.netlify.app/  
+
+
+**Emailr - A simple survey app (React.js, Node.js/Express, WIP)**   
+https://savory-plantation-production.up.railway.app/   
 
 
 **Ordl - Wordle made swedish**  
@@ -29,7 +25,11 @@ https://erixun.github.io/anim-atom/
 
 
 **A chat app (Nuxt.js, WIP)**  
-https://waz-app.azurewebsites.net
+https://waz-app.azurewebsites.net   
+
+
+**My next website (Next.js, WIP)**   
+https://my-next-website-swart.vercel.app/   
 
 
 **My own website (Vue.js, WIP)**  
